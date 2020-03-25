@@ -1,0 +1,28 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.num,
+.opr {
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+}
+
+#jednako {
+  width: 110px;
+  height: 50px;
+  font-size: 20px;
+}
+
+#rezultat {
+  width: 270px;
+  height: 50px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+  color: cadetblue;
+  border: 1px dotted cadetblue;
+}
